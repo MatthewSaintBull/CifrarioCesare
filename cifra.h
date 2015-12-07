@@ -1,5 +1,7 @@
 
-
+/*
+	Libreria che cifra e decifra il testo lavorando sull'ascii di ogni singolo carattere
+*/
 #include <iostream>
 #include <cstdlib>
 #include <string.h>
