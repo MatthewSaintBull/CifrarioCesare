@@ -16,7 +16,7 @@ void cifra_decifra(string testocif,int chiave,bool com){
 	}
 	else{
 		for(int i=0;i<n;i++)
-                p[i]=p[i]-chiave;
+                        p[i]=p[i]-chiave;
 	}
 	string testo(p);
 	cout << testo<<endl;
